@@ -40,9 +40,9 @@ body{
 .hero-one{
     display: flex;
     color:#F9FAF8;
-    justify-content: space-around;
+    justify-content: space-evenly;
     gap:0;
-    padding: 128px;
+    padding: 58px 128px;
     
 }
 
