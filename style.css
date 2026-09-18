@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 body{
     font-family: Roboto, 'Times New Roman', Times, serif;
     margin: 0;
@@ -12,6 +13,7 @@ body{
     display: flex;
     flex-direction: column;
     background-color: #1F2937;
+    /* padding:10px */
 
 }
 
@@ -19,7 +21,7 @@ body{
     display: flex;
     /* align-content: space-between; */
     justify-content: space-around;
-    padding: 16px 24px;
+    padding: 16px 48px;
 
 }
 
@@ -42,7 +44,7 @@ body{
     color:#F9FAF8;
     justify-content: space-evenly;
     gap:0;
-    padding: 58px 128px;
+    padding: 80px 136px;
     
 }
 
@@ -51,7 +53,7 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    max-width: 300px;
+    max-width: 450px;
 }
 
 .buttons{
